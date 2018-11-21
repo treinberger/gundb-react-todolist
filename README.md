@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Short version
+
+in the project directory, you can run:
+
+### `yarn start`
+
+and the react web app will be served and opened in a browser using [http://localhost:3000](http://localhost:3000).
+
+Most of the code actually is stolen, errrr. taken from the original gundb repo's example but has been adapted to work with react-gun.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
